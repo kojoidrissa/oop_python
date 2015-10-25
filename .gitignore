@@ -1,3 +1,4 @@
 .DS_Store
 Python_Beyond_the_Basics*
 venv/
+*.pyc
