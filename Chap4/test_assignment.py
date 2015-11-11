@@ -1,3 +1,5 @@
+from assignment2 import LogFile, DelimFile
+
 log = LogFile('log.txt')                  # passes the filename to write to
 mydelim = DelimFile('data.csv', ',')      # passes the filename to write to
                                           # and a delimeter
